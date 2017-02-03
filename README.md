@@ -23,4 +23,5 @@
 ### ..* lokuð spurning er þegar mður spyr um eithvað sem getur bara haft vist mikið af svörum og oft er það já eða nei dæmi um þetta getur verið: er brokkolí gott, þessi spurning er lokuð því eitt svar getur bara verið gefið Já eða Nei.
 ### 8. Hvað eru jaðartæki?
 ###### það eru utanliggjandi innataks eða úttaks tæki sem eru tengd við vélina sem þú ert að nota, dæmi um þetta er prentari úttaks tæki sem fær upplýsingar frá tölvu um hvað á að prenta
- 
+### 9. Nefndu þrjú dæmi um inntakstæki.
+###### skannari, mús og lyklaborð
