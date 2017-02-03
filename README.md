@@ -21,3 +21,6 @@
 ### Nefnið dæmi um báðar gerðir af spurningum.
 ### ..* opinn spurning getur haft mismunandi niðurstöður frá mismunandi fólki og er ekki með takmörkuð svör eins, dæmi um þetta er ef maður spyr fólk hvaða grænmeti þeim finst vera gott sumir mundu segja brokkolí aðrir gullrætur en þú mundir fá mismunandi svör í mis myklu magni frá mismunandi fólki.
 ### ..* lokuð spurning er þegar mður spyr um eithvað sem getur bara haft vist mikið af svörum og oft er það já eða nei dæmi um þetta getur verið: er brokkolí gott, þessi spurning er lokuð því eitt svar getur bara verið gefið Já eða Nei.
+### 8. Hvað eru jaðartæki?
+###### það eru utanliggjandi innataks eða úttaks tæki sem eru tengd við vélina sem þú ert að nota, dæmi um þetta er prentari úttaks tæki sem fær upplýsingar frá tölvu um hvað á að prenta
+ 
