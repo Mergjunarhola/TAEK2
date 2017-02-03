@@ -25,3 +25,4 @@
 ###### það eru utanliggjandi innataks eða úttaks tæki sem eru tengd við vélina sem þú ert að nota, dæmi um þetta er prentari úttaks tæki sem fær upplýsingar frá tölvu um hvað á að prenta
 ### 9. Nefndu þrjú dæmi um inntakstæki.
 ###### skannari, mús og lyklaborð
+### 10. null
