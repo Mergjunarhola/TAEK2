@@ -11,12 +11,12 @@
 ### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ###### að hann taki inn rétt magn af wöttum, hann veit út rétta spennu á mismunandi stigum og auðvitað með hæfan kælibúnað
 ### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
-###### * fyrst skref er að finna vandmál,
-###### * annað er að skapa kenningu um líklegustu orsök,
-###### * þriðja er að sannprófa að kenning um orsök sé rétt,
-###### * fjórða er að ákveða aðgerðir til að laga vandamálið,
-###### * fimmta er að Staðfest fulla virkni á búnaðinum og koma í veg fyrir frekari vandamál ef þarf og
-###### * sjötta er að skrifa skýrslu um vanda, aðgerðir og niðurstöðu
+###### fyrst skref er að finna vandmál,
+###### annað er að skapa kenningu um líklegustu orsök,
+###### þriðja er að sannprófa að kenning um orsök sé rétt,
+###### fjórða er að ákveða aðgerðir til að laga vandamálið,
+###### fimmta er að Staðfest fulla virkni á búnaðinum og koma í veg fyrir frekari vandamál ef þarf og
+###### sjötta er að skrifa skýrslu um vanda, aðgerðir og niðurstöðu
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 ### Nefnið dæmi um báðar gerðir af spurningum.
 ###### opinn spurning getur haft mismunandi niðurstöður frá mismunandi fólki og er ekki með takmörkuð svör, dæmi um þetta er ef maður spyr fólk hvaða grænmeti þeim finst vera gott sumir mundu segja brokkolí aðrir gullrætur en þú mundir fá mismunandi svör í mis myklu magni frá mismunandi fólki.
